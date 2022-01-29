@@ -1,6 +1,6 @@
 // Crie um array que receba 5 itens e exiba no console.
 
-let frutas = ["Maçã", "Banana", "Abacate", "Limão"]
+let frutas = ["Maçã", "Banana", "Abacate", "Limão", "Caqui"]
 console.log(frutas)
 
 // Utilize um método para adicionar um nome ao inicio do array.
